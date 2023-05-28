@@ -1,0 +1,27 @@
+
+/* thes buttons are for buttons odf next and previous */
+.btn{
+  height: 50px;
+  height: 60px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn button{
+  margin: 10px 50px;
+  width: 100px;
+  height: 30px;
+  background-color: #494f4f;
+  color: antiquewhite;
+  border: 2px solid black;
+  border-radius: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn button:hover{
+  opacity: 0.8;
+}
+
+
